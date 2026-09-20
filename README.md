@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0027-remove-element) |
+| [0039-combination-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0066-plus-one) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
