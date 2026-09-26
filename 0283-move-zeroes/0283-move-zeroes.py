@@ -9,4 +9,4 @@ class Solution(object):
             nums[k]=0
             k+=1
 
-        return nums
+       
