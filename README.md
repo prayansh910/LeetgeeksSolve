@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
+| [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0344-reverse-string) |
+| [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0015-3sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
+| [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
 | ------- |
