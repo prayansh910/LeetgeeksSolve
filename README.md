@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0344-reverse-string) |
 ## Quicksort
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Prefix Sum
 |  |
