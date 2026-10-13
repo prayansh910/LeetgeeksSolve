@@ -12,6 +12,3 @@ class Solution(object):
             rindex-=1
             maxsum=max(maxsum,lsum+rsum)
         return maxsum
-
-
-        
