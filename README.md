@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0345-reverse-vowels-of-a-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0345-reverse-vowels-of-a-string) |
 ## Quicksort
 |  |
 | ------- |
