@@ -1,5 +1,10 @@
 class Solution(object):
     def missingNumber(self, nums):
-        allnums= [i for i in range(0,len(nums)+1)]
-        n= [item for item in allnums if item not in nums]
-        return n[0]
+        n=len(nums)
+        xor1=xor2=0
+        for i,value in enumerate(nums):
+            xor1^=(i+1)
+            xor2^=value
+        return xor1^xor2
+
+
