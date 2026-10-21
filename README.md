@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Math
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 ## Backtracking
 |  |
 | ------- |
@@ -76,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -104,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
