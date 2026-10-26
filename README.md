@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0088-merge-sorted-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Two Pointers
 |  |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0015-3sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0125-valid-palindrome) |
@@ -120,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
