@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0485-max-consecutive-ones) |
+| [0845-longest-mountain-in-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Dynamic Programming
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0845-longest-mountain-in-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0845-longest-mountain-in-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0345-reverse-vowels-of-a-string) |
+| [0845-longest-mountain-in-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -131,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0042-trapping-rain-water) |
+## Enumeration
+|  |
+| ------- |
+| [0845-longest-mountain-in-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0845-longest-mountain-in-array) |
 <!---LeetCode Topics End-->
