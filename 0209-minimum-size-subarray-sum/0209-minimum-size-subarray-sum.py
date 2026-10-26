@@ -5,11 +5,7 @@ class Solution(object):
         n=len(nums)
         while(r<n):
             current_sum+=nums[r]
-            #if current_sum<target:
-               # current_sum+=nums[r]
-
             while current_sum>=target:
-
                 minlength=min(minlength,r-l+1)
                 current_sum-=nums[l]
                 l+=1
@@ -17,8 +13,3 @@ class Solution(object):
         if minlength==float('inf'):
             return 0
         else: return minlength
-
-            
-
-
-            
