@@ -12,10 +12,11 @@ class Solution(object):
             while(i<n and arr[i]<arr[i-1]):
                 down+=1
                 i+=1
-            if up>0 and down>0:
-                mountain=max(mountain,up+down+1)
             if up==0 and down==0:
                 i+=1
+            if up>0 and down>0:
+                mountain=max(mountain,up+down+1)
+            
         return mountain
 
         
