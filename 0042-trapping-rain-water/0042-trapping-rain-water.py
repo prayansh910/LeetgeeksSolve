@@ -3,7 +3,7 @@ class Solution(object):
         l=lmax=rmax=water=0
         r=len(height)-1
         while(l<r):
-            if height[l]<=height[r]:
+            if height[l]<height[r]:
                 lmax=max(lmax,height[l])
                 water+=lmax-height[l]
                 l+=1
