@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0560-subarray-sum-equals-k) |
 | [0845-longest-mountain-in-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0845-longest-mountain-in-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0977-squares-of-a-sorted-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/prayansh910/LeetgeeksSolve/tree/master/0560-subarray-sum-equals-k) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/prayansh910/LeetgeeksSolve/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 ## Bit Manipulation
 |  |
